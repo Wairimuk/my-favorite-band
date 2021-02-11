@@ -1,15 +1,13 @@
 .sidebar {
   float: right;
+  border: 2px solid royalblue;
+  padding: 4px;
+  margin: 6px;
+  background-color: sandybrown;
 }
 .group {
   float: left;
 }
 .photos {
   float: left;
-}
-.group {
-  border-top: 6px solid royalblue;
-  border-bottom: 6px rebeccapurple;
-  border-left: 3px solid pink;
-  border-right: 3px solid greenyellow;
 }
