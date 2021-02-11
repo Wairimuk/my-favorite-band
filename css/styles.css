@@ -7,3 +7,9 @@
 .photos {
   float: left;
 }
+.group {
+  border-top: 6px solid royalblue;
+  border-bottom: 6px rebeccapurple;
+  border-left: 3px solid pink;
+  border-right: 3px solid greenyellow;
+}
