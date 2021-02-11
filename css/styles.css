@@ -1,3 +1,6 @@
 .sidebar {
   float: right;
 }
+.group {
+  float: left;
+}
