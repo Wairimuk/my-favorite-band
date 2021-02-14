@@ -1,5 +1,5 @@
-body{
-  font-family: 'Courier New', Courier, monospace;
+body {
+  font-family: "Courier New", Courier, monospace;
 }
 .sidebar {
   float: right;
@@ -14,7 +14,7 @@ body{
   border: 8px solid rgb(124, 225, 65);
   padding: 6px;
   margin: 8px;
-  background-color: navy);
+  background-color: navy;
 }
 .photos {
   float: left;
